@@ -14,19 +14,19 @@ Our offerings include:
 👥 Mentorship Programs.
 
 🎨 Design & UX Notes:
-# Typography hierarchy.
-# Color palette rationale.
-# Animation and hover effects.
-# Accessibility considerations.
+◆ Typography hierarchy.
+◆ Color palette rationale.
+◆ Animation and hover effects.
+◆ Accessibility considerations.
 
 ⚡ Performance & SEO:
-# Meta tag optimization.
-# Semantic HTML structure.
-# Browser compatibility.
-# Loading performance tips.
+◆ Meta tag optimization.
+◆ Semantic HTML structure.
+◆ Browser compatibility.
+◆ Loading performance tips.
 
 🚀 Launch & Customization:
-# Brand customization guide.
-# Content update instructions.
-# Pre-launch checklist.
-# Analytics tracking setup.
+◆ Brand customization guide.
+◆ Content update instructions.
+◆ Pre-launch checklist.
+◆ Analytics tracking setup.
